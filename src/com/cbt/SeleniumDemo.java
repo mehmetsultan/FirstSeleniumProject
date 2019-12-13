@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	System.setProperty("webdriver.chrome.driver","/Users/Mehmet/Documents/Selenium dependencies/drivers/chromedriver");
 	
 	WebDriver driver = new ChromeDriver();
-	driver.get("http://cybertekschool.com");
+	driver.get("http://google.com");
 	//System.setProperty("webdriver.gecko.driver","/Users/Mehmet/Documents/Selenium dependencies/drivers/geckodriver");
 	//WebDriver driver = new FirefoxDriver();
 	//driver.get("http://cybertekschool.com");
